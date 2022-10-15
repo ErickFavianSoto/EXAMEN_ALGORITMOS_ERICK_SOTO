@@ -1,0 +1,8 @@
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\bin\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.exe.config
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\bin\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.exe
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\bin\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.pdb
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\obj\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\obj\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\obj\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\obj\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.exe
+C:\Users\erick\source\repos\EXAMEN_ALGORIMOS_ERICK_SOTO\obj\Debug\EXAMEN_ALGORIMOS_ERICK_SOTO.pdb
